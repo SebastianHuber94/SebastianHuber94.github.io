@@ -1,0 +1,58 @@
+
+
+    body { 
+        background-color: black; 
+        font-family: sans-serif;
+        height: 75%;
+    }
+    html{
+    	height: 100%;
+
+    }
+
+    .tabla {
+    	
+    	height: 300px;
+    	width: 400px;
+    	background: white;
+    	margin: auto;
+    	padding: 15px;
+
+    }
+
+    h1{
+        font-size: 1.7em;
+        color: blue;
+    }
+    h2{
+        font-size: 1.2em;
+        color: blue;
+    }
+   
+    li{
+        list-style-type: none;
+
+    }
+    ul{
+    	margin:0; padding: 0; 
+    }
+    
+    button {
+     	cursor: pointer;
+      	background-color: black;
+     	border-bottom:rgba(0, 0, 0, .4) 1px solid;
+    	color: gray;
+      	border-radius: 30px;
+
+    }
+    button:hover{
+   		color: red;
+    }
+    .text {
+   			height: 30px;
+   			width: 200px;
+	    	border-radius: 30px;
+	    	border-color: black;
+	    	
+	    }
+ 
